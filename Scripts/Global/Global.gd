@@ -47,6 +47,9 @@ var themes = [preload("res://Audio/Soundtrack/1. SWD_Invincible.ogg"),preload("r
 # index for current theme
 var currentTheme = 0
 
+# Used to store music selections - The index used corresponds to the musicId for the level
+var MusicChoiceArray = [1,2]
+
 # Sound, used for play_sound (used for a global sound, use this if multiple nodes use the same sound)
 var soundChannel = AudioStreamPlayer.new()
 
