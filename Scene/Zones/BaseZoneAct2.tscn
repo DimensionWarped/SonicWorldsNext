@@ -81,6 +81,7 @@ size = Vector2(128, 24)
 script = ExtResource("2")
 nextZone = ExtResource("2_l4fq6")
 music = ["res://Audio/Soundtrack/6. SWD_TLZa1.ogg", "res://Audio/Soundtrack/Khachaturian_Sabre_Dance_1.ogg", "res://Audio/Soundtrack/Oh_-How-I-Miss-You-To-Night_1.ogg"]
+musicId = 1
 animal1 = 2
 animal2 = 3
 defaultLeftBoundry = 0
